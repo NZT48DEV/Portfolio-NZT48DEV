@@ -1,4 +1,4 @@
-<div align="center">
+
 <h1>
 Portfolio GitHub – Anthony (NZT48DEV)
 </h1>
@@ -87,10 +87,10 @@ Je m’appelle Anthony, j’ai 31 ans et je suis en reconversion pour devenir d�
 
 ## 💡 Compétences clés
 
-Automatisation et scripting Python<br>
-Web scraping et parsing de données<br>
-Développement d’applications console et web<br>
-Architecture modulaire et gestion de projets<br>
+- Automatisation et scripting Python<br>
+- Web scraping et parsing de données<br>
+- Développement d’applications console et web<br>
+- Architecture modulaire et gestion de projets<br>
 
 ---
 
@@ -102,4 +102,3 @@ Architecture modulaire et gestion de projets<br>
 ---
 
 **Merci de votre visite !** 👋
-</div>
