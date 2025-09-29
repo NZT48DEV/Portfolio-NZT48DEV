@@ -1,4 +1,4 @@
-
+<div align="center">
 <h1>
 Portfolio GitHub – Anthony (NZT48DEV)
 </h1>
@@ -85,12 +85,32 @@ Je m’appelle Anthony, j’ai 31 ans et je suis en reconversion pour devenir d�
 
 ---
 
+### [Projet_7_OC_Algorithmie](https://github.com/NZT48DEV/Projet_7_OC_Algorithmie.git)  
+![License](https://img.shields.io/github/license/NZT48DEV/Projet_7_OC_Algorithmie.git) ![Stars](https://img.shields.io/github/stars/NZT48DEV/Projet_7_OC_Algorithmie.git)  
+📅 *AOUT 2025* > Projet découverte de l'Algorithmie, optimisation (type sac à dos 0/1) : maximisation du profit sur 2 ans sous contrainte de budget. Comparaison d’une approche brute-force et d’une solution optimisée (programmation dynamique + heuristique gloutonne), avec analyse des compromis en notation Big-O.<br>
+[Voir le projet](https://github.com/NZT48DEV/Projet_7_OC_Algorithmie.git)<br>
+<p align="center">
+  <img src="https://i.gyazo.com/3bf098db8983733e58a772947a50bcac.gif" width="500px" alt="Présentation du projet 7" />
+</p>
+
+---
+
+### [Projet_9_OC_Application_Django](https://github.com/NZT48DEV/Projet_9_OC_Application_Django.git)  
+![License](https://img.shields.io/github/license/NZT48DEV/Projet_9_OC_Application_Django.git) ![Stars](https://img.shields.io/github/stars/NZT48DEV/Projet_9_OC_Application_Django.git)  
+📅 *AOUT 2025* > Projet découverte de l'Algorithmie, optimisation (type sac à dos 0/1) : maximisation du profit sur 2 ans sous contrainte de budget. Comparaison d’une approche brute-force et d’une solution optimisée (programmation dynamique + heuristique gloutonne), avec analyse des compromis en notation Big-O.<br>
+[Voir le projet](https://github.com/NZT48DEV/Projet_9_OC_Application_Django.git)<br>
+<p align="center">
+  <img src="https://github.com/NZT48DEV/Projet_9_OC_Application_Django/blob/master/LITRevu/core/static/core/img/presentation.gif" width="500px" alt="Présentation du projet 9" />
+</p>
+
+---
+
 ## 💡 Compétences clés
 
-- Automatisation et scripting Python<br>
-- Web scraping et parsing de données<br>
-- Développement d’applications console et web<br>
-- Architecture modulaire et gestion de projets<br>
+Automatisation et scripting Python<br>
+Web scraping et parsing de données<br>
+Développement d’applications console et web<br>
+Architecture modulaire et gestion de projets<br>
 
 ---
 
@@ -102,3 +122,4 @@ Je m’appelle Anthony, j’ai 31 ans et je suis en reconversion pour devenir d�
 ---
 
 **Merci de votre visite !** 👋
+</div>
