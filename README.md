@@ -108,9 +108,12 @@ Je m’appelle Anthony, j’ai 32 ans et je suis en reconversion pour devenir d�
 ## 💡 Compétences clés
 
 Automatisation et scripting Python<br>
-Web scraping et parsing de données<br>
-Développement d’applications console et web<br>
-Architecture modulaire et gestion de projets<br>
+Web scraping et parsing de données (Requests, BeautifulSoup, CSV/JSON)<br>
+Développement d’applications console et web (Tkinter, Vanilla JS, Django)<br>
+Architecture modulaire et gestion de projets (MVC, Git/GitHub, organisation en branches)<br>
+Algorithmie et optimisation (programmation dynamique, heuristiques, analyse Big-O)<br>
+Bases de données avec ORM Django (SQLite, modèles, migrations, requêtes)<br>
+Interfaces utilisateur responsives (HTML, CSS, responsive design multi-plateformes)<br>
 
 ---
 
