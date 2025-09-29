@@ -97,7 +97,7 @@ Je m’appelle Anthony, j’ai 32 ans et je suis en reconversion pour devenir d�
 
 ### [Projet_9_OC_Application_Django](https://github.com/NZT48DEV/Projet_9_OC_Application_Django.git)  
 ![License](https://img.shields.io/github/license/NZT48DEV/Projet_9_OC_Application_Django) ![Stars](https://img.shields.io/github/stars/NZT48DEV/Projet_9_OC_Application_Django)  
-📅 *AOUT 2025* > Projet découverte de l'Algorithmie, optimisation (type sac à dos 0/1) : maximisation du profit sur 2 ans sous contrainte de budget. Comparaison d’une approche brute-force et d’une solution optimisée (programmation dynamique + heuristique gloutonne), avec analyse des compromis en notation Big-O.<br>
+📅 *SEPT 2025* > Projet découverte de l'Algorithmie, optimisation (type sac à dos 0/1) : maximisation du profit sur 2 ans sous contrainte de budget. Comparaison d’une approche brute-force et d’une solution optimisée (programmation dynamique + heuristique gloutonne), avec analyse des compromis en notation Big-O.<br>
 [Voir le projet](https://github.com/NZT48DEV/Projet_9_OC_Application_Django.git)<br>
 <p align="center">
   <img src="https://github.com/NZT48DEV/Projet_9_OC_Application_Django/blob/master/LITRevu/core/static/core/img/presentation.gif" width="500px" alt="Présentation du projet 9" />
