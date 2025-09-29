@@ -19,7 +19,7 @@ Bienvenue sur mon portfolio GitHub !
 </h2>
 
 <p>
-Je m’appelle Anthony, j’ai 31 ans et je suis en reconversion pour devenir développeur d’application Python.<br> Passionné par l’automatisation, le développement full-stack et l’intelligence artificielle, je construis des projets concrets pour gagner en compétences et créer des solutions innovantes.
+Je m’appelle Anthony, j’ai 32 ans et je suis en reconversion pour devenir développeur d’application Python.<br> Passionné par l’automatisation, le développement full-stack et l’intelligence artificielle, je construis des projets concrets pour gagner en compétences et créer des solutions innovantes.
 </p>
 
 ---
