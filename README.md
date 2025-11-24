@@ -5,7 +5,7 @@ Portfolio GitHub – Anthony (NZT48DEV)
 
 <p>
   <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/python-3.12-blue" alt="Python" />
+    <img src="https://img.shields.io/badge/python-3.13-blue" alt="Python" />
   </a>
   <a href="https://github.com/NZT48DEV">
     <img src="https://img.shields.io/github/followers/NZT48DEV?label=Suiveurs&style=social" alt="GitHub Followers" />
@@ -19,7 +19,7 @@ Bienvenue sur mon portfolio GitHub !
 </h2>
 
 <p>
-Je m’appelle Anthony, j’ai 31 ans et je suis en reconversion pour devenir développeur d’application Python.<br>
+Je m’appelle Anthony, j’ai 33 ans et je suis en reconversion pour devenir développeur d’application Python.<br>
 Passionné par l’automatisation, le développement full-stack et l’intelligence artificielle, je construis des projets concrets pour gagner en compétences et créer des solutions innovantes.
 </p>
 
