@@ -113,7 +113,7 @@ Passionné par l’automatisation, le développement full-stack et l’intellige
 
 ### [Projet_10_OC_API_RESTful](https://github.com/NZT48DEV/Projet_10_OC_API_RESTful)  
 ![License](https://img.shields.io/github/license/NZT48DEV/Projet_10_OC_API_RESTful) ![Stars](https://img.shields.io/github/stars/NZT48DEV/Projet_10_OC_API_RESTful)  
-📅 *OCT 2025* > API RESTful complète avec FastAPI : endpoints CRUD, authentification JWT, documentation OpenAPI, gestion PostgreSQL.<br>
+📅 *OCT 2025* > API RESTful avec Django Rest : endpoints CRUD, authentification JWT (OAuth2), CI/CD GitHub Actions...<br>
 [Voir le projet](https://github.com/NZT48DEV/Projet_10_OC_API_RESTful)
 <p align="center">
   <img src="https://i.gyazo.com/182ac03e3cc385bdb32a0f862fab6a20.png" width="500px" alt="Présentation du projet 10" />
@@ -123,7 +123,7 @@ Passionné par l’automatisation, le développement full-stack et l’intellige
 
 ### [Projet_11_OC_Python_Testing](https://github.com/NZT48DEV/Projet_11_OC_Python_Testing)  
 ![License](https://img.shields.io/github/license/NZT48DEV/Projet_11_OC_Python_Testing) ![Stars](https://img.shields.io/github/stars/NZT48DEV/Projet_11_OC_Python_Testing)  
-📅 *NOV 2025* > Suite de tests Python avancée (unittest & pytest) : TDD, mocks, fixtures, coverage et CI automatisée.<br>
+📅 *NOV 2025* > Suite de tests Python avancée (pytest) : TDD, mocks, fixtures, coverage.<br>
 [Voir le projet](https://github.com/NZT48DEV/Projet_11_OC_Python_Testing)
 <p align="center">
   <img src="https://i.gyazo.com/79846598fab3bd72811e090c41b26133.png" width="500px" alt="Présentation du projet 11" />
